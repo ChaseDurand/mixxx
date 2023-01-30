@@ -1,6 +1,6 @@
 @ECHO OFF
 SETLOCAL ENABLEDELAYEDEXPANSION
-REM this í is just to force some editors to recognize this file as ANSI, not UTF8.
+REM this ï¿½ is just to force some editors to recognize this file as ANSI, not UTF8.
 
 CALL :REALPATH "%~dp0\.."
 SET MIXXX_ROOT=%RETVAL%
